@@ -1,6 +1,6 @@
 # Giovanna Carreira
 
-Sou Analista de Soluções e gosto de transformar ideias em projetos práticos com tecnologia.
+Olá, me chamo Giovanna! Sou Analista de Soluções e me realizo ao ver uma ideia se tornar um projeto funcional. Acredito que a tecnologia só faz sentido quando melhora a vida das pessoas.
 
 ---
 
